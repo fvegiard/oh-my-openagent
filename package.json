@@ -258,5 +258,7 @@
     "ip-address": "^10.7.2",
     "@types/node": "26.6.2"
   },
-  "trustedDependencies": []
+  "trustedDependencies": [
+    "node-pty"
+  ]
 }
