@@ -451,6 +451,9 @@
       },
     },
   },
+  "trustedDependencies": [
+    "node-pty",
+  ],
   "overrides": {
     "@hono/node-server": "2.1.1",
     "@types/node": "26.6.2",
